@@ -5,7 +5,7 @@
 
 # Hi my name is Octavio Martinez 👋
 <div style="display:flex; flex-direction:row">
-  <img src="https://img.shields.io/badge/Status-Up-lightgreen?style=plastic"/>
+  <img src="https://img.shields.io/badge/Status-Always Up-lightgreen?style=plastic"/>
   <a href="mailto:omartinez1618@gmail.com"><img src="https://img.shields.io/badge/Mail-omartinez1618@gmail.com-red?style=plastic&logo=gmail"/></a>
   <a href="https://api.whatsapp.com/send/?phone=19104469890&text&app_absent=0"><img src="https://img.shields.io/badge/Whatasapp-+19104469890-green?style=plastic&logo=whatsapp"/></a>
 </div>
