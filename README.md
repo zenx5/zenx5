@@ -28,4 +28,4 @@ However, I swear to you, I also handle other technologies like Vue and Angular, 
 ## Use it if it works for you
 
 * [**Git Basic Use**](https://github.com/zenx5/zenx5/wiki/Git-basic-use)
-
+* [**About Wordpress**](https://github.com/zenx5/zenx5/blob/main/habilitar%20endopoint%20en%20wordpress.mp4)
