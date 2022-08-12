@@ -22,36 +22,35 @@ However, I swear to you, I also handle other technologies like Vue and Angular, 
 
 ### Here my skills
 #### Languages, Framework and others
-<div style="display:flex; flex-direction:row">
-  <img src="https://img.shields.io/badge/Html5-Advanced-lightgreen?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-Advanced-lightgreen?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/Javascript-Advanced-lightgreen?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/PHP-Advanced-lightgreen?style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/SQL-Medium-yellow?style=for-the-badge&logo=mysql"/>
-</div>
-
-<div style="display:flex; flex-direction:row">
-  <img src="https://img.shields.io/badge/jQuery-Advanced-lightgreen?style=for-the-badge&logo=jquery"/>
-  <img src="https://img.shields.io/badge/React-Advanced-lightgreen?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Mui-Advanced-lightgreen?style=for-the-badge&logo=mui"/>
-  <img src="https://img.shields.io/badge/Vuejs-Advanced-lightgreen?style=for-the-badge&logo=vuedotjs"/>
-  <img src="https://img.shields.io/badge/Vuetify-Advanced-lightgreen?style=for-the-badge&logo=vuetify"/>
-</div>
-
-<div style="display:flex; flex-direction:row">
-  <img src="https://img.shields.io/badge/Laravel-Advanced-lightgreen?style=for-the-badge&logo=laravel"/>
-  <img src="https://img.shields.io/badge/Wordpress-Advanced-lightgreen?style=for-the-badge&logo=wordpress"/>
-  <img src="https://img.shields.io/badge/Woocommerce-Advanced-lightgreen?style=for-the-badge&logo=woocommerce"/>
-  <img src="https://img.shields.io/badge/Elementor-Advanced-lightgreen?style=for-the-badge&logo=elementor"/>
-</div>
-
-<div style="display:flex; flex-direction:row">
-  <img src="https://img.shields.io/badge/Git-Advanced-lightgreen?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/Prestashop-Advanced-lightgreen?style=for-the-badge&logo=prestashop"/>
-  <img src="https://img.shields.io/badge/Magento-Advanced-lightgreen?style=for-the-badge&logo=magento"/>
-  <img src="https://img.shields.io/badge/Bootstrap-Advanced-lightgreen?style=for-the-badge&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/Docker-Medium-yellow?style=for-the-badge&logo=docker"/>
-</div>
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Html5-Advanced-lightgreen?style=for-the-badge&logo=html5"/></td>
+    <td><img src="https://img.shields.io/badge/CSS3-Advanced-lightgreen?style=for-the-badge&logo=css3"/></td>
+    <td><img src="https://img.shields.io/badge/Javascript-Advanced-lightgreen?style=for-the-badge&logo=javascript"/></td>
+    <td><img src="https://img.shields.io/badge/PHP-Advanced-lightgreen?style=for-the-badge&logo=php"/></td>
+    <td><img src="https://img.shields.io/badge/SQL-Medium-yellow?style=for-the-badge&logo=mysql"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/jQuery-Advanced-lightgreen?style=for-the-badge&logo=jquery"/></td>
+    <td><img src="https://img.shields.io/badge/React-Advanced-lightgreen?style=for-the-badge&logo=react"/></td>
+    <td><img src="https://img.shields.io/badge/Mui-Advanced-lightgreen?style=for-the-badge&logo=mui"/></td>
+    <td><img src="https://img.shields.io/badge/Vuejs-Advanced-lightgreen?style=for-the-badge&logo=vuedotjs"/></td>
+    <td><img src="https://img.shields.io/badge/Vuetify-Advanced-lightgreen?style=for-the-badge&logo=vuetify"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Laravel-Advanced-lightgreen?style=for-the-badge&logo=laravel"/></td>
+    <td><img src="https://img.shields.io/badge/Wordpress-Advanced-lightgreen?style=for-the-badge&logo=wordpress"/></td>
+    <td><img src="https://img.shields.io/badge/Woocommerce-Advanced-lightgreen?style=for-the-badge&logo=woocommerce"/></td>
+    <td><img src="https://img.shields.io/badge/Elementor-Advanced-lightgreen?style=for-the-badge&logo=elementor"/></td>
+    <td><img src="https://img.shields.io/badge/Git-Advanced-lightgreen?style=for-the-badge&logo=git"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Prestashop-Advanced-lightgreen?style=for-the-badge&logo=prestashop"/></td>
+    <td><img src="https://img.shields.io/badge/Magento-Advanced-lightgreen?style=for-the-badge&logo=magento"/></td>
+    <td><img src="https://img.shields.io/badge/Bootstrap-Advanced-lightgreen?style=for-the-badge&logo=bootstrap"/></td>
+    <td><img src="https://img.shields.io/badge/Docker-Medium-yellow?style=for-the-badge&logo=docker"/></td>
+  </tr>
+</table>
 
 ### I love every aspect of my life and I live it with no regrets.
 
