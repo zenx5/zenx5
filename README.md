@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Status-Always Up-lightgreen?style=plastic"/>
   <a href="mailto:omartinez1618@gmail.com"><img src="https://img.shields.io/badge/Mail-omartinez1618@gmail.com-red?style=plastic&logo=gmail"/></a>
   <a href="https://api.whatsapp.com/send/?phone=19104469890&text&app_absent=0"><img src="https://img.shields.io/badge/Whatasapp-+19104469890-green?style=plastic&logo=whatsapp"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CV-ES-green?style=plastic&logo=pagekit"/></a>
+  <a href="https://github.com/zenx5/zenx5/blob/main/CV_octavio_martinez%20v5.pdf"><img src="https://img.shields.io/badge/CV-ES-green?style=plastic&logo=pagekit"/></a>
 </div>
 
 ### And this is my life...
