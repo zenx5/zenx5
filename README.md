@@ -50,6 +50,7 @@ However, I swear to you, I also handle other technologies like Vue and Angular, 
     <td><img src="https://img.shields.io/badge/Magento-Advanced-lightgreen?style=for-the-badge&logo=magento"/></td>
     <td><img src="https://img.shields.io/badge/Bootstrap-Advanced-lightgreen?style=for-the-badge&logo=bootstrap"/></td>
     <td><img src="https://img.shields.io/badge/Docker-Medium-yellow?style=for-the-badge&logo=docker"/></td>
+    <td><img src="https://img.shields.io/badge/Angular-Medium-yellow?style=for-the-badge&logo=angular"/></td>
   </tr>
 </table>
 
