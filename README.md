@@ -14,7 +14,7 @@
 
 ### And this is my life...
 I'm a passionate developer from Venezuela, the land of the most beautiful women in the world, and I was conquered by one of them.<br>
-I'm the father of Jhorman (18) and Ana (4), who are my life. They make me play basketball and dress up as a princess.<br>
+I'm the father of Jhorman (<img id="son" src="https://img.shields.io/badge/1-white?style=for-the-badge"/>) and Ana (<img id="dau" src="https://img.shields.io/badge/1-white?style=for-the-badge"/>), who are my life. They make me play basketball and dress up as a princess.<br>
 And of course, I have the joy of being a believer and a Bible scholar.
 
 ### This is what I do...
