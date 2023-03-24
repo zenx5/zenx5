@@ -13,13 +13,13 @@
 </div>
 
 ### And this is my life...
-I'm a passionate developer from Venezuela, the land of the most beautiful women in the world and conquered by one of them.<br>
-I'm the father of Jhorman(18) and Ana(4), who are my life, they make me play basketball and dress up as a princess.<br>
-And of course, I have the joy of being a believer and a Bible scholar
+I'm a passionate developer from Venezuela, the land of the most beautiful women in the world, and I was conquered by one of them.<br>
+I'm the father of Jhorman (18) and Ana (4), who are my life. They make me play basketball and dress up as a princess.<br>
+And of course, I have the joy of being a believer and a Bible scholar.
 
 ### This is what I do...
-Among the repositories that you will get here you will see a certain inclination towards PHP as I develop many plugins or modules for wordpress, prestashop and magento.<br>
-However, I swear to you, I also handle other technologies like Vue and Angular, which I often combine with Laravel.
+Among the repositories that you will find here, you will notice a certain inclination towards PHP, as I develop many plugins or modules for WordPress, PrestaShop, and Magento.<br>
+However, I assure you that I also have experience with other technologies such as Vue and Angular, which I often combine with Laravel.
 
 ### Here my skills
 #### Languages, Framework and others
