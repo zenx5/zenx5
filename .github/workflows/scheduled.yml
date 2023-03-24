@@ -12,13 +12,9 @@ jobs:
 
       - name: Obtener contenido actual del archivo README
         run: |
-          content=$(cat README.md)
-
-          # Modificar la línea deseada
-          modified_content=$(echo "$content" | sed -E 's/Jhorman \(<img id="son" src="https:\/\/img\.shields\.io\/badge\/([0-9]+)-white\?style=for-the-badge"\/>\) and Ana \(<img id="dau" src="https:\/\/img\.shields\.io\/badge\/([0-9]+)-white\?style=for-the-badge"\/>\)/Jhorman (<img id="son" src="https:\/\/img.shields\.io\/badge\/$(( $(date +%Y) - 2004 ))-white\?style=for-the-badge"\/>) and Ana (<img id="dau" src="https:\/\/img\.shields\.io\/badge\/$(( $(date +%Y) - 2018 ))-white\?style=for-the-badge"\/>)/g' README.md
-
-          # Escribir el contenido actualizado de vuelta al archivo README
-          echo "$modified_content" > README.md
+          content=$(cat README.md);
+          modified_content=$(echo "$content" | sed -E 's/Jhorman \(([0-9]+)\) and Ana \(([0-9]+)\)/Jhorman ($(( $(date +%Y) - 2004 ))) and Ana ($(( $(date +%Y) - 2018 )))/g');
+          echo "$modified_content" > README.md;
 
       - name: Commit y push de los cambios al repositorio
         uses: EndBug/add-and-commit@v7
