@@ -15,7 +15,7 @@ jobs:
           content=$(cat README.md)
 
           # Modificar la línea deseada
-          modified_content=$(echo "$content" | sed -E 's/Jhorman \(<img id="son" src="https:\/\/img\.shields\.io\/badge\/([0-9]+)-white\?style=for-the-badge"\/>\) and Ana \(<img id="dau" src="https:\/\/img\.shields\.io\/badge\/([0-9]+)-white\?style=for-the-badge"\/>\)/Jhorman (<img id="son" src="https:\/\/img.shields\.io\/badge\/$(( $(date +%Y) - 2004 ))-white\?style=for-the-badge"\/>) and Ana (<img id="dau" src="https:\/\/img\.shields\.io\/badge\/$(( $(date +%Y) - 2018 ))-white\?style=for-the-badge"\/>)/g' README.md
+          modified_content=$(echo "$content" | sed -E 's/Jhorman \(<img id="son" src="https:\/\/img\.shields\.io\/badge\/([0-9]+)-white\?style=for-the-badge"\/>\) and Ana \(<img id="dau" src="https:\/\/img\.shields\.io\/badge\/([0-9]+)-white\?style=for-the-badge"\/>\)/Jhorman (<img id="son" src="https:\/\/img.shields\.io\/badge\/$(( $(date +%Y) - 2004 ))-white\?style=for-the-badge"\/>) and Ana (<img id="dau" src="https:\/\/img\.shields\.io\/badge\/$(( $(date +%Y) - 2018 ))-white\?style=for-the-badge"\/>)/g')
 
           # Escribir el contenido actualizado de vuelta al archivo README
           echo "$modified_content" > README.md
