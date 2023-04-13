@@ -18,8 +18,7 @@ I'm the father of Jhorman ($(( $(date +%Y) - 2004 ))) and Ana ($(( $(date +%Y) -
 And of course, I have the joy of being a believer and a Bible scholar.
 
 ### This is what I do...
-Among the repositories that you will find here, you will notice a certain inclination towards PHP, as I develop many plugins or modules for WordPress, PrestaShop, and Magento.<br>
-However, I assure you that I also have experience with other technologies such as Vue and Angular, which I often combine with Laravel.
+You may have noticed that most of my repositories here are related to React, which is currently my preferred technology for front-end development. However, I also have a strong background in PHP, particularly in developing plugins and modules for WordPress, PrestaShop, and Magento.
 
 ### Here my skills
 #### Languages, Framework and others
