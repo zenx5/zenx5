@@ -20,6 +20,19 @@ And of course, I have the joy of being a believer and a Bible scholar.
 ### This is what I do...
 You may have noticed that most of my repositories here are related to React, which is currently my preferred technology for front-end development. However, I also have a strong background in PHP, particularly in developing plugins and modules for WordPress, PrestaShop, and Magento.
 
+<span>
+  <a href="https://zenx5.github.io/lumina-test/" style="text-align:center; border:1px solid red;">
+    <img src="https://raw.githubusercontent.com/zenx5/zenx5/976ff3f924ad5b8154ff6ca9f36832bea2c30451/Captura%20desde%202023-04-17%2000-10-26.png" style="width: 300px;"/>
+  </a>
+</span>
+
+<span>
+  <a href="https://zenx5.github.io/dictionary/" >
+    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/Captura%20desde%202023-04-17%2000-11-23.png" style="width: 300px;"/>
+  </a>
+</span>
+
+
 ### Here my skills
 #### Languages, Framework and others
 <div style="display:flex; flex-direction:column">
