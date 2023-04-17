@@ -1,5 +1,5 @@
 <a href="https://github.com/zenx5">
-<img src="https://raw.githubusercontent.com/zenx5/zenx5/main/developers-hero-developer-center_0.jpg" />
+  <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/banner.jpg" />
 </a>
 
 
@@ -22,13 +22,19 @@ You may have noticed that most of my repositories here are related to React, whi
 
 <span>
   <a href="https://zenx5.github.io/lumina-test/" style="text-align:center; border:1px solid red;">
-    <img src="https://raw.githubusercontent.com/zenx5/zenx5/976ff3f924ad5b8154ff6ca9f36832bea2c30451/Captura%20desde%202023-04-17%2000-10-26.png" style="width: 300px;"/>
+    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/lumina-app.jpg" style="width: 300px;"/>
   </a>
 </span>
 
 <span>
   <a href="https://zenx5.github.io/dictionary/" >
-    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/Captura%20desde%202023-04-17%2000-11-23.png" style="width: 300px;"/>
+    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/dictionary-app.jpg" style="width: 300px;"/>
+  </a>
+</span>
+
+<span>
+  <a href="https://zenx5.github.io/test-visual-software/" >
+    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/product-list.jpg" style="width: 300px;"/>
   </a>
 </span>
 
