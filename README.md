@@ -41,12 +41,15 @@ You may have noticed that most of my repositories here are related to React, whi
   </a>
 </span>
 
-### List Repos
+### Explore my repos
 * [**Repos: Wordpress**](https://github.com/zenx5?tab=repositories&q=wordpress)
 * [**Repos: Wordpress Plugins**](https://github.com/zenx5?tab=repositories&q=plugins)
 * [**Repos: React**](https://github.com/zenx5?tab=repositories&q=react)
 * [**Repos: Vue**](https://github.com/zenx5?tab=repositories&q=vue)
 * [**Repos: Angular**](https://github.com/zenx5?tab=repositories&q=angular)
+* [**Repos: Chrome Extensions**](https://github.com/zenx5?tab=repositories&q=chrome)
+* [**Repos: PHP**](https://github.com/zenx5?tab=repositories&q=php)
+* [**Repos: Material**](https://github.com/zenx5?tab=repositories&q=mui)
 
 
 ### Here my skills
