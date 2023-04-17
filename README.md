@@ -41,6 +41,13 @@ You may have noticed that most of my repositories here are related to React, whi
   </a>
 </span>
 
+### List Repos
+* [**Repos: Wordpress**](https://github.com/zenx5?tab=repositories&q=wordpress)
+* [**Repos: Wordpress Plugins**](https://github.com/zenx5?tab=repositories&q=plugins)
+* [**Repos: React**](https://github.com/zenx5?tab=repositories&q=react)
+* [**Repos: Vue**](https://github.com/zenx5?tab=repositories&q=vue)
+* [**Repos: Angular**](https://github.com/zenx5?tab=repositories&q=angular)
+
 
 ### Here my skills
 #### Languages, Framework and others
@@ -85,9 +92,3 @@ You may have noticed that most of my repositories here are related to React, whi
 
 * [**Git Basic Use**](https://github.com/zenx5/zenx5/wiki/Git-basic-use)
 * [**About Wordpress**](https://github.com/zenx5/zenx5/blob/main/habilitar%20endopoint%20en%20wordpress.mp4)
-
-### List Repos
-* [**Repos: Wordpress**](https://github.com/zenx5?tab=repositories&q=wordpress)
-* [**Repos: Wordpress Plugins**](https://github.com/zenx5?tab=repositories&q=plugins)
-* [**Repos: React**](https://github.com/zenx5?tab=repositories&q=react)
-* [**Repos: Vue**](https://github.com/zenx5?tab=repositories&q=vue)
