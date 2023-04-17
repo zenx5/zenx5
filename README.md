@@ -22,19 +22,19 @@ You may have noticed that most of my repositories here are related to React, whi
 
 <span>
   <a href="https://zenx5.github.io/lumina-test/" style="text-align:center; border:1px solid red;">
-    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/lumina-app.jpg" style="width: 300px;"/>
+    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/lumina-app.jpg" style="width: 250px;"/>
   </a>
 </span>
 
 <span>
   <a href="https://zenx5.github.io/dictionary/" >
-    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/dictionary-app.jpg" style="width: 300px;"/>
+    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/dictionary-app.jpg" style="width: 250px;"/>
   </a>
 </span>
 
 <span>
   <a href="https://zenx5.github.io/test-visual-software/" >
-    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/product-list.jpg" style="width: 300px;"/>
+    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/product-list.jpg" style="width: 250px;"/>
   </a>
 </span>
 
