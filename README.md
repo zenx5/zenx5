@@ -18,7 +18,8 @@ I'm the father of Jhorman ($(( $(date +%Y) - 2004 ))) and Ana ($(( $(date +%Y) -
 And of course, I have the joy of being a believer and a Bible scholar.
 
 ### This is what I do...
-You may have noticed that most of my repositories here are related to React, which is currently my preferred technology for front-end development. However, I also have a strong background in PHP, particularly in developing plugins and modules for WordPress, PrestaShop, and Magento.
+You may have noticed that most of my repositories here are related to React, which is currently my preferred technology for front-end development. However, I also have a strong background in PHP, particularly in developing plugins and modules for WordPress, PrestaShop, and Magento.<br/>
+(click on the images to explore)
 
 <span>
   <a href="https://zenx5.github.io/lumina-test/" target="_blank">
