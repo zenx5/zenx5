@@ -50,6 +50,7 @@ You may have noticed that most of my repositories here are related to React, whi
 * [**Repos: Chrome Extensions**](https://github.com/zenx5?tab=repositories&q=chrome)
 * [**Repos: PHP**](https://github.com/zenx5?tab=repositories&q=php)
 * [**Repos: Material**](https://github.com/zenx5?tab=repositories&q=mui)
+* [**Repos: OpenAI**](https://github.com/zenx5?tab=repositories&q=openai)
 
 
 ### Here my skills
