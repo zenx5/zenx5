@@ -4,6 +4,7 @@
 
 
 # I'm Octavio Martinez 👋
+(I recommend viewing this profile in the Chrome browser using this extension: [Github con Esteroides](https://chrome.google.com/webstore/detail/github-con-esteroides/pimlkiegjicdenljebbmomgmabjljagj?hl=es))
 <div style="display:flex; flex-direction:row">
   <img src="https://img.shields.io/badge/Status-Always Up-lightgreen?style=plastic"/>
   <a href="mailto:omartinez1618@gmail.com"><img src="https://img.shields.io/badge/Mail-omartinez1618@gmail.com-red?style=plastic&logo=gmail"/></a>
@@ -23,19 +24,19 @@ You may have noticed that most of my repositories here are related to React, whi
 <br/>
 (click on the images to explore)
 
-<span>
+<span id="card-float">
   <a href="https://zenx5.github.io/lumina-test/" target="_blank">
     <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/lumina-app.jpg" style="width: 250px;"/>
   </a>
 </span>
 
-<span>
+<span id="card-float">
   <a href="https://zenx5.github.io/dictionary/" target="_blank" >
     <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/dictionary-app.jpg" style="width: 250px;"/>
   </a>
 </span>
 
-<span>
+<span id="card-float">
   <a href="https://zenx5.github.io/test-visual-software/" target="_blank" >
     <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/product-list.jpg" style="width: 250px;"/>
   </a>
