@@ -4,7 +4,7 @@
 
 
 # I'm Octavio Martinez 👋
-(I recommend viewing this profile in the Chrome browser using this extension: [Github con Esteroides](https://chrome.google.com/webstore/detail/github-con-esteroides/pimlkiegjicdenljebbmomgmabjljagj?hl=es))
+<span id="hide">(I recommend viewing this profile in the Chrome browser using this extension: [Github con Esteroides](https://chrome.google.com/webstore/detail/github-con-esteroides/pimlkiegjicdenljebbmomgmabjljagj?hl=es))</span>
 <div style="display:flex; flex-direction:row">
   <img src="https://img.shields.io/badge/Status-Always Up-lightgreen?style=plastic"/>
   <a href="mailto:omartinez1618@gmail.com"><img src="https://img.shields.io/badge/Mail-omartinez1618@gmail.com-red?style=plastic&logo=gmail"/></a>
