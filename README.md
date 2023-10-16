@@ -7,9 +7,9 @@
 <span id="hide">(I recommend viewing this profile in the Chrome browser using this extension: [Github con Esteroides](https://chrome.google.com/webstore/detail/github-con-esteroides/pimlkiegjicdenljebbmomgmabjljagj?hl=es))</span>
 <div style="display:flex; flex-direction:row">
   <img src="https://img.shields.io/badge/Status-Always Up-lightgreen?style=plastic"/>
-  <a href="https://www.linkedin.com/in/octavio-mart%C3%ADnez-c/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=plastic&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/zenx5/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=plastic&logo=linkedin"/></a>
   <a href="mailto:omartinez1618@gmail.com"><img src="https://img.shields.io/badge/Mail-omartinez1618@gmail.com-red?style=plastic&logo=gmail"/></a>
-  <a href="https://api.whatsapp.com/send/?phone=58460644067&text&app_absent=0"><img src="https://img.shields.io/badge/Whatasapp-+584260644067-lightgreen?style=plastic&logo=whatsapp"/></a>
+  <a href="https://api.whatsapp.com/send/?phone=58460644067&text&app_absent=0"><img src="https://img.shields.io/badge/Whatasapp-+584125292507-lightgreen?style=plastic&logo=whatsapp"/></a>
   <a href="https://docs.google.com/presentation/d/1FwwnfO3ecUqhXlx7hAwhGJvbllphLLBun5fbn023Y0k/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-ES-green?style=plastic&logo=pagekit"/></a>
   <a href="https://docs.google.com/presentation/d/17R2iMB2Om0lBKg_NBRrdaq75TSGJhrGxqEOlDaWyFz8/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-PT-green?style=plastic&logo=pagekit"/></a>
 </div>
