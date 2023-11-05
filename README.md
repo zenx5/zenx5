@@ -1,7 +1,6 @@
-<a href="https://github.com/zenx5">
+<!--a href="https://github.com/zenx5">
   <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/banner.jpg" />
-</a>
-
+</a-->
 
 # I'm Octavio Martinez 👋
 <span id="hide">(I recommend viewing this profile in the Chrome browser using this extension: [Github con Esteroides](https://chrome.google.com/webstore/detail/github-con-esteroides/pimlkiegjicdenljebbmomgmabjljagj?hl=es))</span>
@@ -13,17 +12,6 @@
   <a href="https://docs.google.com/presentation/d/1FwwnfO3ecUqhXlx7hAwhGJvbllphLLBun5fbn023Y0k/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-ES-green?style=plastic&logo=pagekit"/></a>
   <a href="https://docs.google.com/presentation/d/17R2iMB2Om0lBKg_NBRrdaq75TSGJhrGxqEOlDaWyFz8/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-PT-green?style=plastic&logo=pagekit"/></a>
 </div>
-
-### And this is my life...
-I'm a passionate developer from Venezuela, the land of the most beautiful women in the world, and I was conquered by one of them.<br>
-I'm the father of Jhorman 18 and Ana 5, who are my life. They make me play basketball and dress up as a princess.<br>
-And of course, I have the joy of being a believer and a Bible scholar.
-
-### This is what I do...
-You may have noticed that most of my repositories here are related to React, which is currently my preferred technology for front-end development. However, I also have a strong background in PHP, particularly in developing plugins and modules for WordPress, PrestaShop, and Magento.
-<br/>
-<br/>
-(click on the images to explore)
 
 <span id="card-row">
 <span id="card-float">
@@ -45,7 +33,30 @@ You may have noticed that most of my repositories here are related to React, whi
 </span>
 </span>
 
-### Explore my repos
+
+### Esta es mi vida...
+Soy un apasionado desarrollador de Venezuela, tierra de las mujeres más bellas del mundo, y conquistado por una de ellas.
+Soy padre de Jhorman (19) y Ana (5), que son mi vida. Soy orgullosamente creyente de la Biblia y valoro los buenos amigos. <br/><br/>
+Entre las idas a la escuela, la iglesia y el sonido de mi teclado paso mis días intentando hacer las cosas mejor cada día
+
+
+### Esto es lo que hago...
+#### Frontend
+<b>React</b> es mi tecnologia favorita, y esta me llevo inevitablemente a <b>NextJs+Tailwindcss</b>; que si te has pasado por mis repos notarás tengo muchos proyectos con esta pareja tan versatil. La mayoria estan desplegados en Vercel por si quieres ir a ver.<br/><br/>
+Pero antes de React, ya trabajaba con <b>Vue.js</b> con el que por cierto esta hecho mi sitio web ([https://zenx5.pro](https://zenx5.pro)) y en el que soy bastante bueno también sobre todo combinandolo con <b>Vuetify</b>.<br/><br/>
+Y bueno para completar la triada, tambien tengo algunos proyectos hechos en <b>Angular</b>, Framework que me enseño a usar <b>Typescript</b> por cierto.
+<br/>
+<br/>
+#### Backend
+<b>PHP</b> por supuesto, el lenguaje que nunca muere. Fue allí donde comence mientras desarrollaba mi primera app en la universidad, una mezcla de <b>PHP</b> con <b>SQL</b> y algunas tecnologias del frontend.<br/>
+con <b>PHP</b> incurcione en el desarrollo de <b>Plugins para Wordpress</b> donde me hice muy bueno, al igual que creando <b>modulos para prestashop</b><br/><br/>
+También me interese mucho en <b>Node</b> con Express donde lo mas que hice fue <b>APIs</b> con <b>Prisma</b> y <b>SQLite</b>, creo que lo mas emocionante fue un bridge para consumir la API de <b>chatGPT</b><br/><br/>
+Aunque menos veces, tambiém he desarrollado APIs para <b>laravel</b>, con autenticación con <b>JWT</b> como [esta](https://github.com/zenx5/manzanaverde_back) hecha para una prueba tecnica
+
+
+
+
+### Mira mis repos
 * [**Repos: Wordpress**](https://github.com/zenx5?tab=repositories&q=wordpress)
 * [**Repos: Wordpress Plugins**](https://github.com/zenx5?tab=repositories&q=plugins)
 * [**Repos: React**](https://github.com/zenx5?tab=repositories&q=react)
@@ -59,13 +70,4 @@ You may have noticed that most of my repositories here are related to React, whi
 
 
 
-### I love every aspect of my life and I live it with no regrets.
-
-###
-###
-###
-
-## Use it if it works for you
-
-* [**Git Basic Use**](https://github.com/zenx5/zenx5/wiki/Git-basic-use)
-* [**About Wordpress**](https://github.com/zenx5/zenx5/blob/main/habilitar%20endopoint%20en%20wordpress.mp4)
+### Amo todos los aspectos de mi vida y la vivo sin arrepentimientos.
