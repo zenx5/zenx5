@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/banner.jpg" />
 </a-->
 
-# I'm Octavio Martinez 👋
+# Hola, soy Octavio Martinez 👋
 <span id="hide">(I recommend viewing this profile in the Chrome browser using this extension: [Github con Esteroides](https://chrome.google.com/webstore/detail/github-con-esteroides/pimlkiegjicdenljebbmomgmabjljagj?hl=es))</span>
 <div style="display:flex; flex-direction:row">
   <img src="https://img.shields.io/badge/Status-Always Up-lightgreen?style=plastic"/>
