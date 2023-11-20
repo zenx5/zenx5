@@ -10,7 +10,7 @@
   <a href="mailto:omartinez1618@gmail.com"><img src="https://img.shields.io/badge/Mail-omartinez1618@gmail.com-red?style=plastic&logo=gmail"/></a>
   <a href="https://api.whatsapp.com/send/?phone=58460644067&text&app_absent=0"><img src="https://img.shields.io/badge/Whatasapp-+584125292507-lightgreen?style=plastic&logo=whatsapp"/></a>
   <a href="https://docs.google.com/presentation/d/1FwwnfO3ecUqhXlx7hAwhGJvbllphLLBun5fbn023Y0k/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-ES-green?style=plastic&logo=pagekit"/></a>
-  <a href="https://docs.google.com/presentation/d/17R2iMB2Om0lBKg_NBRrdaq75TSGJhrGxqEOlDaWyFz8/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-PT-green?style=plastic&logo=pagekit"/></a>
+  <!--a href="https://docs.google.com/presentation/d/17R2iMB2Om0lBKg_NBRrdaq75TSGJhrGxqEOlDaWyFz8/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-PT-green?style=plastic&logo=pagekit"/></a-->
 </div>
 
 <span id="card-row">
@@ -31,6 +31,13 @@
     <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/product-list.jpg" style="width: 250px;"/>
   </a>
 </span>
+
+<!--span id="card-float">
+  <a href="https://chat-wsp.vercel.app/" target="_blank" >
+    <img src="https://github.com/zenx5/zenx5/assets/26119733/8a039d52-3d04-4c69-a312-293523416b3a" style="width: 250px;"/>
+  </a>
+</span-->
+
 </span>
 
 
