@@ -43,7 +43,7 @@
 
 ### Esta es mi vida...
 Soy un apasionado desarrollador de Venezuela, tierra de las mujeres más bellas del mundo, y conquistado por una de ellas.
-Soy padre de Jhorman (19) y Ana (5), que son mi vida. Soy orgullosamente creyente de la Biblia y valoro los buenos amigos. <br/><br/>
+Soy padre de Jhorman (19) y Ana (6), que son mi vida. Soy orgullosamente creyente de la Biblia y valoro los buenos amigos. <br/><br/>
 Entre las idas a la escuela, la iglesia y el sonido de mi teclado paso mis días intentando hacer las cosas mejor cada día
 
 
