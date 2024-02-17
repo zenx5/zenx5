@@ -32,11 +32,18 @@
   </a>
 </span>
 
-<!--span id="card-float">
+<span id="card-float">
   <a href="https://chat-wsp.vercel.app/" target="_blank" >
     <img src="https://github.com/zenx5/zenx5/assets/26119733/8a039d52-3d04-4c69-a312-293523416b3a" style="width: 250px;"/>
   </a>
-</span-->
+</span>
+
+<span id="card-float">
+  <a href="https://chat-wsp.vercel.app/" target="_blank" >
+    <img src="https://github.com/zenx5/zenx5/assets/26119733/a7013a90-b3d9-4a39-8900-8045b05880b1" style="width: 250px;"/>
+  </a>
+</span>
+
 
 </span>
 
