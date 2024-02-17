@@ -39,11 +39,16 @@
 </span>
 
 <span id="card-float">
-  <a href="https://chat-wsp.vercel.app/" target="_blank" >
+  <a href="https://fire-chat-tau.vercel.app/" target="_blank" >
     <img src="https://github.com/zenx5/zenx5/assets/26119733/a7013a90-b3d9-4a39-8900-8045b05880b1" style="width: 250px;"/>
   </a>
 </span>
 
+<span id="card-float">
+  <a href="https://search-dependencies.vercel.app" target="_blank" >
+    <img src="https://github.com/zenx5/zenx5/assets/26119733/9cdcdfbb-d199-4074-8e46-a8a327c4fe92" style="width: 250px;"/>
+  </a>
+</span>
 
 </span>
 
