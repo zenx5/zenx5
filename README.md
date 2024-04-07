@@ -60,13 +60,13 @@ Entre las idas a la escuela, la iglesia y el sonido de mi teclado paso mis días
 
 
 ### Esto es lo que hago...
-#### Frontend
+## Frontend
 <b>React</b> es mi tecnologia favorita, y esta me llevo inevitablemente a <b>NextJs+Tailwindcss</b>; que si te has pasado por mis repos notarás tengo muchos proyectos con esta pareja tan versatil. La mayoria estan desplegados en Vercel por si quieres ir a ver.<br/><br/>
 Pero antes de React, ya trabajaba con <b>Vue.js</b> con el que por cierto esta hecho mi sitio web ([https://zenx5.pro](https://zenx5.pro)) y en el que soy bastante bueno también sobre todo combinandolo con <b>Vuetify</b>.<br/><br/>
 Y bueno para completar la triada, tambien tengo algunos proyectos hechos en <b>Angular</b>, Framework que me enseño a usar <b>Typescript</b> por cierto.
 <br/>
 <br/>
-#### Backend
+## Backend
 <b>PHP</b> por supuesto, el lenguaje que nunca muere. Fue allí donde comence mientras desarrollaba mi primera app en la universidad, una mezcla de <b>PHP</b> con <b>SQL</b> y algunas tecnologias del frontend.<br/>
 con <b>PHP</b> incurcione en el desarrollo de <b>Plugins para Wordpress</b> donde me hice muy bueno, al igual que creando <b>modulos para prestashop</b><br/><br/>
 También me interese mucho en <b>Node</b> con Express donde lo mas que hice fue <b>APIs</b> con <b>Prisma</b> y <b>SQLite</b>, creo que lo mas emocionante fue un bridge para consumir la API de <b>chatGPT</b><br/><br/>
