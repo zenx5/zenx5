@@ -1,9 +1,5 @@
-<!--a href="https://github.com/zenx5">
-  <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/banner.jpg" />
-</a-->
+# Hola 👋, Soy Zenx5
 
-# Hola, soy Octavio Martinez 👋
-<span id="hide">(I recommend viewing this profile in the Chrome browser using this extension: [Github con Esteroides](https://chrome.google.com/webstore/detail/github-con-esteroides/pimlkiegjicdenljebbmomgmabjljagj?hl=es))</span>
 <div style="display:flex; flex-direction:row">
   <img src="https://img.shields.io/badge/Status-Always Up-lightgreen?style=plastic"/>
   <a href="https://www.linkedin.com/in/zenx5/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=plastic&logo=linkedin"/></a>
@@ -13,44 +9,25 @@
   <!--a href="https://docs.google.com/presentation/d/17R2iMB2Om0lBKg_NBRrdaq75TSGJhrGxqEOlDaWyFz8/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-PT-green?style=plastic&logo=pagekit"/></a-->
 </div>
 
-<span id="card-row">
-<span id="card-float">
-  <a href="https://zenx5.github.io/lumina-test/" target="_blank">
-    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/lumina-app.jpg" style="width: 250px;"/>
-  </a>
-</span>
+## ¿Que hice hasta acá?
+Te invito a que sigas algunos links y puedas ver algunas de las cosas que he hecho hasta este momento. Soy un creador apasionado, por lo que no te extrañe que esta lista siga creciendo.<br/>
+De momento puedes mirar algunas de estas 
+- #### Search Dependencies
+  <b>Tipo:</b> Aplicación Web, Extension de Chrome y Complemento de Firefox<br/>
+  <b>Decripción:</b> Este es una app desarrollada sobre NextJS, y la uso para consultar en que repositorios se ha usado alguna dependencia.<br/>
+  La idea surgió cuando llegue a mi repositorio #100 y empezo a hacerse dificil hacer consultas. La principal uso que le doy es cuando tengo que hacer alguna implementación y consulto como lo hice antes<br/>
+  En la sección de colaboradores encontraras algunos de los miembros del equipo que participaron en este desarrollo.<br/>
+  <b>URL:</b> [https://search-dependencies.vercel.app/](https://search-dependencies.vercel.app/)<br/>
+  <b>Tags:</b> Nextjs, React, Firebase, Desarrollo de Api, Github Api, Login con Github, Cookies
+- #### Prompt Box
+  <b>Tipo:</b> Extension de Chrome<br/>
+  <b>Decripción:</b> <br/>
+  <b>URL:</b> [https://chromewebstore.google.com/detail/prompt-box/odcagcgihohglhnolhimdoeahaaefilm](https://chromewebstore.google.com/detail/prompt-box/odcagcgihohglhnolhimdoeahaaefilm)<br/>
+  <b>Tags:</b> React, Chrome API, Chrome Storage, webpack
+  
+  
+  
 
-<span id="card-float">
-  <a href="https://zenx5.github.io/dictionary/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/dictionary-app.jpg" style="width: 250px;"/>
-  </a>
-</span>
-
-<span id="card-float">
-  <a href="https://zenx5.github.io/product-list/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/product-list.jpg" style="width: 250px;"/>
-  </a>
-</span>
-
-<span id="card-float">
-  <a href="https://chat-wsp.vercel.app/" target="_blank" >
-    <img src="https://github.com/zenx5/zenx5/assets/26119733/8a039d52-3d04-4c69-a312-293523416b3a" style="width: 250px;"/>
-  </a>
-</span>
-
-<span id="card-float">
-  <a href="https://fire-chat-tau.vercel.app/" target="_blank" >
-    <img src="https://github.com/zenx5/zenx5/assets/26119733/a7013a90-b3d9-4a39-8900-8045b05880b1" style="width: 250px;"/>
-  </a>
-</span>
-
-<span id="card-float">
-  <a href="https://search-dependencies.vercel.app" target="_blank" >
-    <img src="https://github.com/zenx5/zenx5/assets/26119733/9cdcdfbb-d199-4074-8e46-a8a327c4fe92" style="width: 250px;"/>
-  </a>
-</span>
-
-</span>
 
 
 ### Esta es mi vida...
