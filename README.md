@@ -13,7 +13,7 @@
 Te invito a que sigas algunos links y puedas ver algunas de las cosas que he hecho hasta este momento. Soy un creador apasionado, por lo que no te extrañe que esta lista siga creciendo.<br/>
 De momento puedes mirar algunas de estas 
 - #### Search Dependencies
-  <b>Tipo:</b> Aplicación Web, Extension de Chrome y Complemento de Firefox<br/>
+  <b>Tipo:</b> Aplicación Web<br/>
   <b>Decripción:</b> Este es una app desarrollada sobre NextJS, y la uso para consultar en que repositorios se ha usado alguna dependencia.<br/>
   La idea surgió cuando llegue a mi repositorio #100 y empezo a hacerse dificil hacer consultas. La principal uso que le doy es cuando tengo que hacer alguna implementación y consulto como lo hice antes<br/>
   En la sección de colaboradores encontraras algunos de los miembros del equipo que participaron en este desarrollo.<br/>
@@ -21,13 +21,20 @@ De momento puedes mirar algunas de estas
   <b>Tags:</b> Nextjs, React, Firebase, Desarrollo de Api, Github Api, Login con Github, Cookies
 - #### Prompt Box
   <b>Tipo:</b> Extension de Chrome<br/>
-  <b>Decripción:</b> <br/>
+  <b>Decripción:</b> Extension para chrome que permite crear, guardar y copiar prompts con facilidad para usar en ChatGPT o algún otro servicio de IA.<br/>
   <b>URL:</b> [https://chromewebstore.google.com/detail/prompt-box/odcagcgihohglhnolhimdoeahaaefilm](https://chromewebstore.google.com/detail/prompt-box/odcagcgihohglhnolhimdoeahaaefilm)<br/>
   <b>Tags:</b> React, Chrome API, Chrome Storage, webpack
+- #### Not {JSON} Placeholder
+  <b>Tipo:</b> Aplicación Web<br/>
+  <b>Decripción:</b> Implementacion de los endpoint del famoso {JSON} Placeholder con un "toque" didactico.<br/>
+  <b>URL:</b> [https://not-json-placeholder.vercel.app/](https://not-json-placeholder.vercel.app/)<br/>
+  <b>Tags:</b> React, JSONPlaceholder API, Tailwindcss
+- #### How Do It
+  <b>Tipo:</b> Módulo NPM<br/>
+  <b>Decripción:</b> How Do It es una libreria de React que permite crear tutoriales interactivos de forma sencilla.<br/>
+  <b>URL:</b> [https://www.npmjs.com/package/how-do-it](https://www.npmjs.com/package/how-do-it)<br/>
+  <b>Tags:</b> NPM, React
   
-  
-  
-
 
 
 ### Esta es mi vida...
