@@ -1,0 +1,26 @@
+{
+    "classContainer" : "grid grid-cols-4 grid-rows-1 gap-8 mt-4",
+    "items": [
+        {
+            "icon": "mdi-linkedin",
+            "url": "https://www.linkedin.com/in/zenx5"
+        },
+        {
+            "icon": "mdi-github",
+            "url": "https://github.com/zenx5"
+        },
+        {
+            "icon": "mdi-email",
+            "url": "mailto:omartinez1618@gmail.com"
+        },
+        {
+            "icon": "mdi-file",
+            "url": {
+                "es": "https://docs.google.com/document/d/10i7Fic4orcgdtHKgt6QSRMM1gn-BbL4iaRavHzCZzFA/edit?usp=sharing",
+                "en": "https://docs.google.com/presentation/d/1RKko_7pjTwIA7p5_GVu2TX-bTz71N62RTamAT904fwo/edit?usp=sharing",
+                "pt": "https://docs.google.com/presentation/d/1FwwnfO3ecUqhXlx7hAwhGJvbllphLLBun5fbn023Y0k/edit?usp=sharing"
+            }
+        }
+    ]
+
+}
