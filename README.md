@@ -8,14 +8,28 @@
 </div>
 <br />
 
-## Bienvenido a nuestro Evento
+## Bienvenido a AngularJS a Next.js: Mi viaje de refactorización
 
-<img src="https://github.com/zenx5/zenx5/assets/26119733/a804b7c8-effd-47c1-bf27-70bdade6d0bd" />
+<!-- <img src="https://github.com/zenx5/zenx5/assets/26119733/a804b7c8-effd-47c1-bf27-70bdade6d0bd" /> -->
+
+<img src="https://github.com/zenx5/zenx5/assets/26119733/5573de16-092c-4ccf-b7c4-cc34bca50942" width="600px" />
 <br />
-<br />
 
+### Link del Evento:
+https://www.linkedin.com/events/angularjsanext-js-miviajederefa7209306452480458753/theater/
 
-Si has llegado hasta aquí, seguro es por nuestro <b>Evento de Refactoring</b> en el cual tomaremos la primera aplicación que hice y la pasaremos de AngularJS a tecnologias mas modernas<br/>
-Especificamente usaremos Nextjs, con TypeScript y Tailwindcss, para los datos usaremos Prisma para conectarnos mientras desarrollamos con sqlite
+### Horarios:
+- <img src="https://github.com/zenx5/zenx5/assets/26119733/bc86b970-8de2-483b-b578-e57ddf167d81" alt="mexico" width="30px"/>
+  17H <br/>
+- <img src="https://github.com/zenx5/zenx5/assets/26119733/fcbd41de-3156-4bb5-83d9-7b5bff6e41a6" alt="peru" width="30px" />
+  <img src="https://github.com/zenx5/zenx5/assets/26119733/34e164bc-835b-4e6f-9642-1680db77eec2" alt="colombia" width="30px" />
+  <img src="https://github.com/zenx5/zenx5/assets/26119733/8aefd474-8aac-49b9-bd9e-647517453f87" alt="ecuador" width="30px" />
+  18H <br/>
+- <img src="https://github.com/zenx5/zenx5/assets/26119733/2fc6420a-8102-489a-a71a-065a64f134a2" alt="chile" width="30px" />
+  <img src="https://github.com/zenx5/zenx5/assets/26119733/249593da-3562-4a61-ac1c-3909666813a4" alt="venezuela" width="30px" />
+  <img src="https://github.com/zenx5/zenx5/assets/26119733/40880ead-e21f-4856-bfa9-b0e946d71c23" alt="bolivia" width="30px" />
+  19H <br/>
+- <img src="https://github.com/zenx5/zenx5/assets/26119733/7f347d57-759a-443e-8ca6-7170235517df" alt="argentina" width="30px" />
+  20H <br/>
 
 
