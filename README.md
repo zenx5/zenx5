@@ -10,6 +10,9 @@
 
 ## Bienvenido a: "AngularJS a Next.js: Mi viaje de refactorización"
 
+Luego de 6 años hago un refactoring de mi primera app en Directo por LinkedIn, la original la puedes conseguir en el repositorio publico que te dejo mas abajo.
+
+<br/> 
 
 <img src="https://github.com/zenx5/zenx5/assets/26119733/5573de16-092c-4ccf-b7c4-cc34bca50942" width="600px" />
 <br />
@@ -31,4 +34,6 @@ https://www.linkedin.com/events/angularjsanext-js-miviajederefa72093064524804587
 - <img src="https://github.com/zenx5/zenx5/assets/26119733/7f347d57-759a-443e-8ca6-7170235517df" alt="argentina" width="30px" />
   20H <br/>
 
+### Repositorio de la version en Angularjs:
+https://github.com/zenx5/iram-chile-certificados
 
