@@ -8,9 +8,8 @@
 </div>
 <br />
 
-## Bienvenido a AngularJS a Next.js: Mi viaje de refactorización
+## Bienvenido a: "AngularJS a Next.js: Mi viaje de refactorización"
 
-<!-- <img src="https://github.com/zenx5/zenx5/assets/26119733/a804b7c8-effd-47c1-bf27-70bdade6d0bd" /> -->
 
 <img src="https://github.com/zenx5/zenx5/assets/26119733/5573de16-092c-4ccf-b7c4-cc34bca50942" width="600px" />
 <br />
