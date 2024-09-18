@@ -1,92 +1,47 @@
-<!--a href="https://github.com/zenx5">
-  <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/banner.jpg" />
-</a-->
-
-# Hola, soy Octavio Martinez 👋
-<span id="hide">(I recommend viewing this profile in the Chrome browser using this extension: [Github con Esteroides](https://chrome.google.com/webstore/detail/github-con-esteroides/pimlkiegjicdenljebbmomgmabjljagj?hl=es))</span>
+# Hola, soy Zenx5
 <div style="display:flex; flex-direction:row">
-  <img src="https://img.shields.io/badge/Status-Always Up-lightgreen?style=plastic"/>
+  <a href="https://zenx5.pro"><img src="https://img.shields.io/badge/Status-Always Up-lightgreen?style=plastic"/></a>
   <a href="https://www.linkedin.com/in/zenx5/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=plastic&logo=linkedin"/></a>
   <a href="mailto:omartinez1618@gmail.com"><img src="https://img.shields.io/badge/Mail-omartinez1618@gmail.com-red?style=plastic&logo=gmail"/></a>
   <a href="https://api.whatsapp.com/send/?phone=58460644067&text&app_absent=0"><img src="https://img.shields.io/badge/Whatasapp-+584125292507-lightgreen?style=plastic&logo=whatsapp"/></a>
-  <a href="https://docs.google.com/presentation/d/1FwwnfO3ecUqhXlx7hAwhGJvbllphLLBun5fbn023Y0k/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-ES-green?style=plastic&logo=pagekit"/></a>
-  <!--a href="https://docs.google.com/presentation/d/17R2iMB2Om0lBKg_NBRrdaq75TSGJhrGxqEOlDaWyFz8/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/CV-PT-green?style=plastic&logo=pagekit"/></a-->
 </div>
 
-<span id="card-row">
-<span id="card-float">
-  <a href="https://zenx5.github.io/lumina-test/" target="_blank">
-    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/lumina-app.jpg" style="width: 250px;"/>
-  </a>
-</span>
-
-<span id="card-float">
-  <a href="https://zenx5.github.io/dictionary/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/dictionary-app.jpg" style="width: 250px;"/>
-  </a>
-</span>
-
-<span id="card-float">
-  <a href="https://zenx5.github.io/product-list/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/zenx5/zenx5/main/images/product-list.jpg" style="width: 250px;"/>
-  </a>
-</span>
-
-<span id="card-float">
-  <a href="https://chat-wsp.vercel.app/" target="_blank" >
-    <img src="https://github.com/zenx5/zenx5/assets/26119733/8a039d52-3d04-4c69-a312-293523416b3a" style="width: 250px;"/>
-  </a>
-</span>
-
-<span id="card-float">
-  <a href="https://fire-chat-tau.vercel.app/" target="_blank" >
-    <img src="https://github.com/zenx5/zenx5/assets/26119733/a7013a90-b3d9-4a39-8900-8045b05880b1" style="width: 250px;"/>
-  </a>
-</span>
-
-<span id="card-float">
-  <a href="https://search-dependencies.vercel.app" target="_blank" >
-    <img src="https://github.com/zenx5/zenx5/assets/26119733/9cdcdfbb-d199-4074-8e46-a8a327c4fe92" style="width: 250px;"/>
-  </a>
-</span>
-
-</span>
-
-
-### Esta es mi vida...
-Soy un apasionado desarrollador de Venezuela, tierra de las mujeres más bellas del mundo, y conquistado por una de ellas.
-Soy padre de Jhorman (19) y Ana (6), que son mi vida. Soy orgullosamente creyente de la Biblia y valoro los buenos amigos. <br/><br/>
-Entre las idas a la escuela, la iglesia y el sonido de mi teclado paso mis días intentando hacer las cosas mejor cada día
-
-
-### Esto es lo que hago...
-## Frontend
-<b>React</b> es mi tecnologia favorita, y esta me llevo inevitablemente a <b>NextJs+Tailwindcss</b>; que si te has pasado por mis repos notarás tengo muchos proyectos con esta pareja tan versatil. La mayoria estan desplegados en Vercel por si quieres ir a ver.<br/><br/>
-Pero antes de React, ya trabajaba con <b>Vue.js</b> con el que por cierto esta hecho mi sitio web ([https://zenx5.pro](https://zenx5.pro)) y en el que soy bastante bueno también sobre todo combinandolo con <b>Vuetify</b>.<br/><br/>
-Y bueno para completar la triada, tambien tengo algunos proyectos hechos en <b>Angular</b>, Framework que me enseño a usar <b>Typescript</b> por cierto.
-<br/>
-<br/>
-## Backend
-<b>PHP</b> por supuesto, el lenguaje que nunca muere. Fue allí donde comence mientras desarrollaba mi primera app en la universidad, una mezcla de <b>PHP</b> con <b>SQL</b> y algunas tecnologias del frontend.<br/>
-con <b>PHP</b> incurcione en el desarrollo de <b>Plugins para Wordpress</b> donde me hice muy bueno, al igual que creando <b>modulos para prestashop</b><br/><br/>
-También me interese mucho en <b>Node</b> con Express donde lo mas que hice fue <b>APIs</b> con <b>Prisma</b> y <b>SQLite</b>, creo que lo mas emocionante fue un bridge para consumir la API de <b>chatGPT</b><br/><br/>
-Aunque menos veces, tambiém he desarrollado APIs para <b>laravel</b>, con autenticación con <b>JWT</b> como [esta](https://github.com/zenx5/manzanaverde_back) hecha para una prueba tecnica
+He estado ocupado hacinedo varias cosas divertidas, me apasiona crear Experiencias de Software sobre todo si luego tienen alguna utilidad para mi día a día.<br/>
+En el proceso normalmente me interesa el aporte que pueda dar a la comunidad dev, pero mucho más el poder implementar esas tecnologías interesantes que en proyectos normales no tendría la oportunidad de probar.
 
 
 
+## Kommiter IA <img src="https://img.shields.io/badge/KommiterIA-red?style=plastic&logo=npm" />
+<div><b>Generador de commits usando IA</b> a partir de los cambios hechos en los archivos. Solo selecciona el modelo de lenguaje, agrega tu <b>API KEY</b> y olvidate de contemplar el universo mientras se te ocurre que escribir en tus commits</div>
+<div>
+  <img src="https://github.com/user-attachments/assets/d15f0b10-a1ae-4759-a9b8-d6cef98bb217" width="200" height="200" />
+</div>
 
-### Mira mis repos
-* [**Repos: Wordpress**](https://github.com/zenx5?tab=repositories&q=wordpress)
-* [**Repos: Wordpress Plugins**](https://github.com/zenx5?tab=repositories&q=plugins)
-* [**Repos: React**](https://github.com/zenx5?tab=repositories&q=react)
-* [**Repos: Vue**](https://github.com/zenx5?tab=repositories&q=vue)
-* [**Repos: Angular**](https://github.com/zenx5?tab=repositories&q=angular)
-* [**Repos: Chrome Extensions**](https://github.com/zenx5?tab=repositories&q=chrome)
-* [**Repos: PHP**](https://github.com/zenx5?tab=repositories&q=php)
-* [**Repos: Material**](https://github.com/zenx5?tab=repositories&q=mui)
-* [**Repos: OpenAI**](https://github.com/zenx5?tab=repositories&q=openai)
+**URL:** https://www.npmjs.com/package/kommiter-ia <br/>
+<img src="https://img.shields.io/badge/NPM-red?style=plastic&logo=npm"/>
+<img src="https://img.shields.io/badge/Typescript-white?style=plastic&logo=typescript"/>
+<img src="https://img.shields.io/badge/Git-white?style=plastic&logo=git"/>
+
+## Check Repo IA  <img src="https://check-repo-ia.vercel.app/check.svg" width="22" height="22"  />
+Este genial proyecto fue ideado para medir la calidad del código que haces o que compras. <br/>
+Este proyecto también ha sido el que me ha abierto las puertas del **Github Developer Program** <br/>
+**¡Asegúrate de hacerlo mejor cada día!** <br/>
+<img src="https://github.com/user-attachments/assets/57e8c88c-1d0d-4f1a-a6ef-b6169adcea0d" width="400" height="300"/><br/>
+
+**URL:** https://check-repo-ia.vercel.app/ <br/>
+<img src="https://img.shields.io/badge/Typescript-white?style=plastic&logo=typescript"/>
+<img src="https://img.shields.io/badge/Github%20API-black?style=plastic&logo=github"/>
+<img src="https://img.shields.io/badge/HTML-white?style=plastic&logo=html5"/>
+<img src="https://img.shields.io/badge/Tailwindcss-white?style=plastic&logo=tailwindcss"/>
 
 
+## Search Dependencies
+Sí eres como yo, que no puedas tener las manos quietas y siempre estés creando un nuevo proyecto, seguramente necesitas responder continuamente a la pregunta: <b>¿Cómo lo hice la última vez?</b><br/>
+Este es una Aplicación montada sobre **NextJs** que se alimenta desde **firebase** y que hice con dos de mis estudiantes. Facilita ubicar las dependencias que has usado en tus proyectos consumiendo la **API de Github** para este fin.<br/>
+<img src="https://github.com/user-attachments/assets/71e0d583-a3ab-474b-93ca-85bd269bb1d0" width="500" height="250"/><br/>
+**URL:** https://search-dependencies.vercel.app/ <br/>
+<img src="https://img.shields.io/badge/Typescript-white?style=plastic&logo=typescript"/>
+<img src="https://img.shields.io/badge/Github%20API-black?style=plastic&logo=github"/>
+<img src="https://img.shields.io/badge/HTML-white?style=plastic&logo=html5"/>
+<img src="https://img.shields.io/badge/Tailwindcss-white?style=plastic&logo=tailwindcss"/>
 
-
-### Amo todos los aspectos de mi vida y la vivo sin arrepentimientos.
