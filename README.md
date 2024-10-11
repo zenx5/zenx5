@@ -13,9 +13,10 @@ En el proceso normalmente me interesa el aporte que pueda dar a la comunidad dev
 
 ## Kommiter IA <img src="https://img.shields.io/badge/KommiterIA-red?style=plastic&logo=npm" />
 <div><b>Generador de commits usando IA</b> a partir de los cambios hechos en los archivos. Solo selecciona el modelo de lenguaje, agrega tu <b>API KEY</b> y olvidate de contemplar el universo mientras se te ocurre que escribir en tus commits</div>
-<div>
-  <img src="https://github.com/user-attachments/assets/d15f0b10-a1ae-4759-a9b8-d6cef98bb217" width="200" height="200" />
-</div>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d15f0b10-a1ae-4759-a9b8-d6cef98bb217" width="200" height="200"  style="display: block; margin: 0 auto"/>
+</p>
 
 **URL:** https://www.npmjs.com/package/kommiter-ia <br/>
 <img src="https://img.shields.io/badge/NPM-red?style=plastic&logo=npm"/>
@@ -26,7 +27,9 @@ En el proceso normalmente me interesa el aporte que pueda dar a la comunidad dev
 Este genial proyecto fue ideado para medir la calidad del código que haces o que compras. <br/>
 Este proyecto también ha sido el que me ha abierto las puertas del **Github Developer Program** <br/>
 **¡Asegúrate de hacerlo mejor cada día!** <br/>
+<p align="center">
 <img src="https://github.com/user-attachments/assets/57e8c88c-1d0d-4f1a-a6ef-b6169adcea0d" width="400" height="300"/><br/>
+</p>
 
 **URL:** https://check-repo-ia.vercel.app/ <br/>
 <img src="https://img.shields.io/badge/Typescript-white?style=plastic&logo=typescript"/>
@@ -38,7 +41,10 @@ Este proyecto también ha sido el que me ha abierto las puertas del **Github Dev
 ## Search Dependencies
 Sí eres como yo, que no puedas tener las manos quietas y siempre estés creando un nuevo proyecto, seguramente necesitas responder continuamente a la pregunta: <b>¿Cómo lo hice la última vez?</b><br/>
 Este es una Aplicación montada sobre **NextJs** que se alimenta desde **firebase** y que hice con dos de mis estudiantes. Facilita ubicar las dependencias que has usado en tus proyectos consumiendo la **API de Github** para este fin.<br/>
-<img src="https://github.com/user-attachments/assets/71e0d583-a3ab-474b-93ca-85bd269bb1d0" width="500" height="250"/><br/>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/71e0d583-a3ab-474b-93ca-85bd269bb1d0" width="500" height="250"/>
+</p><br/>
+
 **URL:** https://search-dependencies.vercel.app/ <br/>
 <img src="https://img.shields.io/badge/Typescript-white?style=plastic&logo=typescript"/>
 <img src="https://img.shields.io/badge/Github%20API-black?style=plastic&logo=github"/>
