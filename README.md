@@ -18,10 +18,12 @@ En el proceso normalmente me interesa el aporte que pueda dar a la comunidad dev
 <img src="https://github.com/user-attachments/assets/d15f0b10-a1ae-4759-a9b8-d6cef98bb217" width="200" height="200"  style="display: block; margin: 0 auto"/>
 </p>
 
-**URL:** https://www.npmjs.com/package/kommiter-ia <br/>
-<img src="https://img.shields.io/badge/NPM-red?style=plastic&logo=npm"/>
-<img src="https://img.shields.io/badge/Typescript-white?style=plastic&logo=typescript"/>
-<img src="https://img.shields.io/badge/Git-white?style=plastic&logo=git"/>
+<p align="center"><b>URL:</b> https://www.npmjs.com/package/kommiter-ia </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NPM-red?style=plastic&logo=npm"/>
+  <img src="https://img.shields.io/badge/Typescript-white?style=plastic&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Git-white?style=plastic&logo=git"/>
+</p>
 
 ## Check Repo IA  <img src="https://check-repo-ia.vercel.app/check.svg" width="22" height="22"  />
 Este genial proyecto fue ideado para medir la calidad del código que haces o que compras. <br/>
@@ -31,12 +33,13 @@ Este proyecto también ha sido el que me ha abierto las puertas del **Github Dev
 <img src="https://github.com/user-attachments/assets/57e8c88c-1d0d-4f1a-a6ef-b6169adcea0d" width="400" height="300"/><br/>
 </p>
 
-**URL:** https://check-repo-ia.vercel.app/ <br/>
-<img src="https://img.shields.io/badge/Typescript-white?style=plastic&logo=typescript"/>
-<img src="https://img.shields.io/badge/Github%20API-black?style=plastic&logo=github"/>
-<img src="https://img.shields.io/badge/HTML-white?style=plastic&logo=html5"/>
-<img src="https://img.shields.io/badge/Tailwindcss-white?style=plastic&logo=tailwindcss"/>
-
+<p align="center"> <b>URL:</b> https://check-repo-ia.vercel.app/ </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Typescript-white?style=plastic&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Github%20API-black?style=plastic&logo=github"/>
+  <img src="https://img.shields.io/badge/HTML-white?style=plastic&logo=html5"/>
+  <img src="https://img.shields.io/badge/Tailwindcss-white?style=plastic&logo=tailwindcss"/>
+</p>
 
 ## Search Dependencies
 Sí eres como yo, que no puedas tener las manos quietas y siempre estés creando un nuevo proyecto, seguramente necesitas responder continuamente a la pregunta: <b>¿Cómo lo hice la última vez?</b><br/>
@@ -45,9 +48,10 @@ Este es una Aplicación montada sobre **NextJs** que se alimenta desde **firebas
 <img src="https://github.com/user-attachments/assets/71e0d583-a3ab-474b-93ca-85bd269bb1d0" width="500" height="250"/>
 </p><br/>
 
-**URL:** https://search-dependencies.vercel.app/ <br/>
-<img src="https://img.shields.io/badge/Typescript-white?style=plastic&logo=typescript"/>
-<img src="https://img.shields.io/badge/Github%20API-black?style=plastic&logo=github"/>
-<img src="https://img.shields.io/badge/HTML-white?style=plastic&logo=html5"/>
-<img src="https://img.shields.io/badge/Tailwindcss-white?style=plastic&logo=tailwindcss"/>
-
+<p align="center"><b>URL:</b> https://search-dependencies.vercel.app/ </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Typescript-white?style=plastic&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Github%20API-black?style=plastic&logo=github"/>
+  <img src="https://img.shields.io/badge/HTML-white?style=plastic&logo=html5"/>
+  <img src="https://img.shields.io/badge/Tailwindcss-white?style=plastic&logo=tailwindcss"/>
+</p>
