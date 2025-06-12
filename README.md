@@ -10,6 +10,18 @@ He estado ocupado hacinedo varias cosas divertidas, me apasiona crear Experienci
 En el proceso normalmente me interesa el aporte que pueda dar a la comunidad dev, pero mucho más el poder implementar esas tecnologías interesantes que en proyectos normales no tendría la oportunidad de probar.
 
 
+## Prompt Box <img src="https://lh3.googleusercontent.com/Y5s2DfwQEpKxDz6xTOOLxNOJphDgtnGuGkl7sv7mztskHZefxREOfTOQimS9qdp8Ftkr4jT3MUX62spSQhnb6CiD=s60" width="22" height="22"  />
+<div>
+<b>Almacena tus prompts para IA</b><br />
+Extensión bastante sencilla con mas de 200 usuarios que te permite almacenar tus prompts para IA y tenerlos a la mano para cuando necesites usarlos. Tan solo has click para copiarlos y pegalos en tu IA favorita<br/>
+Desarrollado con <b>React</b>
+</div>
+
+<p align="center">
+<img src="https://lh3.googleusercontent.com/Y5s2DfwQEpKxDz6xTOOLxNOJphDgtnGuGkl7sv7mztskHZefxREOfTOQimS9qdp8Ftkr4jT3MUX62spSQhnb6CiD=s60" width="200" height="200"  style="display: block; margin: 0 auto"/>
+</p>
+
+<p align="center"><b>URL:</b> https://chromewebstore.google.com/detail/prompt-box/odcagcgihohglhnolhimdoeahaaefilm</p>
 
 ## Kommiter IA <img src="https://img.shields.io/badge/KommiterIA-red?style=plastic&logo=npm" />
 <div><b>Generador de commits usando IA</b> a partir de los cambios hechos en los archivos. Solo selecciona el modelo de lenguaje, agrega tu <b>API KEY</b> y olvidate de contemplar el universo mientras se te ocurre que escribir en tus commits</div>
