@@ -1,9 +1,9 @@
 # Hola, soy Octavio
 <div style="display:flex; flex-direction:row">
   <a href="https://zenx5.pro"><img src="https://img.shields.io/badge/Status-Always Up-lightgreen?style=plastic"/></a>
-  <a href="https://www.linkedin.com/in/zenx5/"><img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=plastic&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/zenx5/"><img src="https://img.shields.io/badge/LinkedIn-Zenx5-blue?style=plastic&logo=linkedIn"/></a>
   <a href="mailto:omartinez1618@gmail.com"><img src="https://img.shields.io/badge/Mail-omartinez1618@gmail.com-red?style=plastic&logo=gmail"/></a>
-  <a href="https://api.whatsapp.com/send/?phone=58460644067&text&app_absent=0"><img src="https://img.shields.io/badge/Whatasapp-+584125292507-lightgreen?style=plastic&logo=whatsapp"/></a>
+  <a href="https://api.whatsapp.com/send/?phone=555496887929&text&app_absent=0"><img src="https://img.shields.io/badge/Whatasapp-+55%2054%209688%207929-lightgreen?style=plastic&logo=whatsapp"/></a>
 </div>
 
 He estado ocupado hacinedo varias cosas divertidas, me apasiona crear Experiencias de Software sobre todo si luego tienen alguna utilidad para mi día a día.<br/><br/>
