@@ -6,6 +6,23 @@
 ## 🚀 Proyectos Destacados
 ### 🤖 SOPL-A
 Es un DSL creado sobre Python para la orquestación de Agentes de IA, su principal caracteristicas es tratar al Contexto como un objeto de primera clase, con operacion propias que permiten optimizarlo antes de que algun LLM lo consuma. Permitiendo optimizar el uso de tokens y como consiguiente los costos
+```Javascript
+Tool tool = Tool("tools/tool.py")
+LLM tiny = Model.get("google/gemma-3-1b")
+tiny.set_temperature(0)
+Context ctx
+ctx.push("system", "...")
+ctx.push("assistem", "...")
+ctx.push("user", "...")
+
+loop main(input_user) {
+    Object response = tiny.call(input_user, ctx.get_all())
+    Object data = tool.execute(response.data)
+    if( data.ok ) {
+      return data.result
+    }
+}
+```
 
 ### 🌉 Claumini Bridge
 Proxy local compuesto por un servidor **Node.js** y una extensión de Chrome que convierte cuentas gratuitas de Gemini, ChatGPT o Claude en una API compatible con el estándar de OpenAI.
