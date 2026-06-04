@@ -4,6 +4,9 @@
 <p>Desarrollador con más de 8 años de experiencia profesional centrada en el ecosistema JavaScript, Node.js y React. Mi enfoque se basa en la integridad arquitectónica, la creación de experiencias de software útiles para el desarrollador en su día a día y la implementación de tecnologías emergentes en especial Inteligencia Artificial.</p>
 
 ## 🚀 Proyectos Destacados
+### 🤖 SOPL-A
+Es un DSL creado sobre Python para la orquestación de Agentes de IA, su principal caracteristicas es tratar al Contexto como un objeto de primera clase, con operacion propias que permiten optimizarlo antes de que algun LLM lo consuma. Permitiendo optimizar el uso de tokens y como consiguiente los costos
+
 ### 🌉 Claumini Bridge
 Proxy local compuesto por un servidor **Node.js** y una extensión de Chrome que convierte cuentas gratuitas de Gemini, ChatGPT o Claude en una API compatible con el estándar de OpenAI.
  * **Utilidad:** Conexión de IDEs (Trae, Cursor, Continue) y librerías (LangChain, AutoGen) directamente a la pestaña del navegador para ahorro de costos de API.
