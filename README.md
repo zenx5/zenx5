@@ -5,14 +5,14 @@
 
 ## 🚀 Proyectos Destacados
 ### 🤖 SOPL-A
-Es un DSL creado sobre Python para la orquestación de Agentes de IA, su principal caracteristicas es tratar al Contexto como un objeto de primera clase, con operacion propias que permiten optimizarlo antes de que algun LLM lo consuma. Permitiendo optimizar el uso de tokens y como consiguiente los costos
+Es un DSL creado sobre Python para la orquestación de Agentes de IA, su principal característica es tratar al Contexto como un objeto de primera clase, con operacion propias que permiten optimizarlo antes de que algún LLM lo consuma. Permitiendo optimizar el uso de tokens y como consiguiente los costos
 ```Javascript
 Tool tool = Tool("tools/tool.py")
 LLM tiny = Model.get("google/gemma-3-1b")
 tiny.set_temperature(0)
 Context ctx
 ctx.push("system", "...")
-ctx.push("assistem", "...")
+ctx.push("assistant", "...")
 ctx.push("user", "...")
 
 loop main(input_user) {
@@ -41,7 +41,7 @@ Experimento de simulación del "Salto Abductivo" (The Einstein Challenge) utiliz
 ## 📚 Escritura Técnica e Investigación
 Además del desarrollo, dedico tiempo a la documentación y la investigación teórica:
  * **Libros:** Autor de "Lo que no te van a enseñar en un curso de React" y en desarrollo de "La Filosofía de React".
- * **Física Teórica:** Publicque el [Axioma de Distinción Topologica](https://zenodo.org/records/17919110) para universo multitemporales, y estoy trabajando en teorias de gravedad emergente.
+ * **Física Teórica:** Publiqué el [Axioma de Distinción Topologica](https://zenodo.org/records/17919110) para universo multitemporales, y estoy trabajando en teorías de gravedad emergente.
 
 ## 💻 Stack Técnico Principal
 React | Node.js | TypeScript | C# / .NET | Next.js | Tailwindcss | PostgreSQL | Oracle
