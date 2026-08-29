@@ -1,11 +1,11 @@
-# Hola, soy Octavio Martínez 👋
-**Senior Full-stack Developer | Arquitecto de Software**
+# I'm Octavio Martínez 👋
+**Senior Full-stack Developer | Software Architect**
 
-<p>Desarrollador con más de 8 años de experiencia profesional centrada en el ecosistema JavaScript, Node.js y React. Mi enfoque se basa en la integridad arquitectónica, la creación de experiencias de software útiles para el desarrollador en su día a día y la implementación de tecnologías emergentes en especial Inteligencia Artificial.</p>
+<p>Developer with over 8 years of professional experience focused on the JavaScript ecosystem, Node.js, and React. My approach is built on architectural integrity, creating useful software experiences that enhance developers' day-to-day work, and implementing emerging technologies, especially Artificial Intelligence.</p>
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 ### 🤖 SOPL-A
-Es un DSL creado sobre Python para la orquestación de Agentes de IA, su principal característica es tratar al Contexto como un objeto de primera clase, con operacion propias que permiten optimizarlo antes de que algún LLM lo consuma. Permitiendo optimizar el uso de tokens y como consiguiente los costos
+It is a Python-based DSL for AI Agent orchestration. Its core feature is treating Context as a first-class citizen with dedicated operations that optimize it before it is consumed by an LLM, thereby optimizing token usage and reducing costs.
 ```Javascript
 Tool tool = Tool("tools/tool.py")
 LLM tiny = Model.get("google/gemma-3-1b")
@@ -24,29 +24,33 @@ loop main(input_user) {
 }
 ```
 
+### 🧠 Project Corpus 1900
+Abductive Leap simulation experiment ("The Einstein Challenge") using a **TinyLlama-1.1B** model.
+
+* **Objective:** Evaluate an LLM's ability to generate a paradigm shift (Relativity) when exposed to physical anomalies (Michelson-Morley) without access to post-1900 data.
+
 ### 🌉 Claumini Bridge
-Proxy local compuesto por un servidor **Node.js** y una extensión de Chrome que convierte cuentas gratuitas de Gemini, ChatGPT o Claude en una API compatible con el estándar de OpenAI.
- * **Utilidad:** Conexión de IDEs (Trae, Cursor, Continue) y librerías (LangChain, AutoGen) directamente a la pestaña del navegador para ahorro de costos de API.
+Local proxy consisting of a **Node.js** server and a Chrome extension that converts free Gemini, ChatGPT, or Claude accounts into an OpenAI-standard compatible API.
 
-### 🧠 Proyecto Corpus 1900
-Experimento de simulación del "Salto Abductivo" (The Einstein Challenge) utilizando un modelo **TinyLlama-1.1B**.
- * **Objetivo:** Evaluar la capacidad de un LLM para generar un cambio de paradigma (Relatividad) ante anomalías físicas (Michelson-Morley) sin acceso a datos posteriores al año 1900.
+* **Utility:** Connects IDEs (Trae, Cursor, Continue) and libraries (LangChain, AutoGen) directly to the browser tab to save on API costs.
 
-## 🛠️ Otros Proyectos
- * **Prompt Box:** Extensión de React con más de 200 usuarios para gestionar prompts de IA.
- * **Kommiter IA:** Generador de commits semánticos basado en cambios de archivos.
- * **Check Repo IA:** Herramienta de medición de calidad de código que me integró al GitHub Developer Program.
- * **Search Dependencies:** App en Next.js y Firebase para localizar dependencias usadas en proyectos previos mediante la API de GitHub.
+## 🛠️ Other Projects
+* **[Rag-router](https://www.npmjs.com/package/rag-router):** NPM module that allows deploying a RAG architecture on Express.js in just a few lines of code..
+* **[Prompt Box](https://chromewebstore.google.com/detail/prompt-box/odcagcgihohglhnolhimdoeahaaefilm):** React extension with over 200 users for managing AI prompts.
+* **[Kommiter IA](https://www.npmjs.com/package/kommiter-ia):** Semantic commit generator based on file changes.
+* **Check Repo IA:** Code quality assessment tool that got me accepted into the GitHub Developer Program.
+* **Search Dependencies:** Next.js and Firebase app to locate dependencies used in previous projects using the GitHub API.
 
-## 📚 Escritura Técnica e Investigación
-Además del desarrollo, dedico tiempo a la documentación y la investigación teórica:
- * **Libros:** Autor de "Lo que no te van a enseñar en un curso de React" y en desarrollo de "La Filosofía de React".
- * **Física Teórica:** Publiqué el [Axioma de Distinción Topologica](https://zenodo.org/records/17919110) para universo multitemporales, y estoy trabajando en teorías de gravedad emergente.
+## 📚 Technical Writing and Research
+In addition to development, I dedicate time to documentation and theoretical research:
 
-## 💻 Stack Técnico Principal
+* **Books:** Author of "[Lo que no te van a enseñar en un curso de React](https://www.amazon.com/Lo-que-ense%C3%B1an-curso-React-ebook/dp/B0FQKVZFDD)" (What They Won't Teach You in a React Course) and currently writing "La Filosofía de React" (The Philosophy of React).
+* **Theoretical Physics:** Published the [Axiom of Topological Distinction](https://zenodo.org/records/17919110) for multitemporal universes, and I am currently working on theories of emergent gravity.
+
+## 💻 Main Tech Stack
 React | Node.js | TypeScript | C# / .NET | Next.js | Tailwindcss | PostgreSQL | Oracle
 
-## Contacto
+## Contact
 <div style="display:flex; flex-direction:row">
   <a href="https://zenx5.pro"><img src="https://img.shields.io/badge/Status-Always Up-lightgreen?style=plastic"/></a>
   <a href="https://www.linkedin.com/in/zenx5/"><img src="https://img.shields.io/badge/LinkedIn-Zenx5-blue?style=plastic&logo=linkedIn"/></a>
